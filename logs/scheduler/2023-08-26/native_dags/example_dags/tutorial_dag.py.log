@@ -1,0 +1,74 @@
+[2023-08-26T17:26:11.658-0300] {processor.py:157} INFO - Started process (PID=24061) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:26:11.658-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:26:11.659-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:11.659-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:26:11.671-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:26:11.939-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:11.938-0300] {manager.py:501} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2023-08-26T17:26:11.942-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:11.941-0300] {manager.py:501} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2023-08-26T17:26:11.944-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:11.943-0300] {manager.py:501} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2023-08-26T17:26:11.947-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:11.947-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:26:11.951-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:11.951-0300] {dag.py:2929} INFO - Creating ORM DAG for tutorial_dag
+[2023-08-26T17:26:11.951-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:11.951-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:26:11.957-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.300 seconds
+[2023-08-26T17:27:32.471-0300] {processor.py:157} INFO - Started process (PID=24242) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:27:32.472-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:27:32.472-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:32.472-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:27:32.484-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:27:32.557-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:32.557-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:27:32.562-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:32.562-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:27:32.571-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.101 seconds
+[2023-08-26T17:28:19.127-0300] {processor.py:157} INFO - Started process (PID=24348) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:28:19.127-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:28:19.127-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:28:19.127-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:28:19.140-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:28:19.208-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:28:19.208-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:28:19.212-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:28:19.212-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:28:19.220-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2023-08-26T17:29:05.112-0300] {processor.py:157} INFO - Started process (PID=24448) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:29:05.113-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:29:05.113-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:05.113-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:29:05.126-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:29:05.197-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:05.197-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:29:05.201-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:05.201-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:29:05.207-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.095 seconds
+[2023-08-26T17:29:49.629-0300] {processor.py:157} INFO - Started process (PID=24553) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:29:49.629-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:29:49.629-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:49.629-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:29:49.641-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:29:49.710-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:49.709-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:29:49.713-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:49.713-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:29:49.720-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.092 seconds
+[2023-08-26T17:30:36.547-0300] {processor.py:157} INFO - Started process (PID=24654) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:30:36.548-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:30:36.548-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:30:36.548-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:30:36.560-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:30:36.628-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:30:36.628-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:30:36.632-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:30:36.632-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:30:36.639-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2023-08-26T17:31:40.698-0300] {processor.py:157} INFO - Started process (PID=25062) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:31:40.698-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:31:40.699-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:31:40.698-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:31:40.711-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:31:40.780-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:31:40.779-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:31:40.783-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:31:40.783-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:31:40.790-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2023-08-26T17:32:25.747-0300] {processor.py:157} INFO - Started process (PID=25164) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:32:25.748-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:32:25.748-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:32:25.748-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:32:25.760-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:32:25.829-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:32:25.829-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:32:25.832-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:32:25.832-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:32:25.839-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds
+[2023-08-26T17:42:21.376-0300] {processor.py:157} INFO - Started process (PID=26139) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:42:21.376-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:42:21.377-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:42:21.377-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:42:21.391-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:42:21.463-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:42:21.463-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:42:21.467-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:42:21.466-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:42:21.474-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.099 seconds
+[2023-08-26T17:52:12.854-0300] {processor.py:157} INFO - Started process (PID=27651) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:52:12.854-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-08-26T17:52:12.855-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:52:12.855-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:52:12.867-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-08-26T17:52:12.936-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:52:12.936-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:52:12.939-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:52:12.939-0300] {dag.py:3677} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-08-26T17:52:12.946-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.093 seconds

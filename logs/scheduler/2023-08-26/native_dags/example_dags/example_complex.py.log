@@ -1,0 +1,39 @@
+[2023-08-26T17:27:08.398-0300] {processor.py:157} INFO - Started process (PID=24183) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:27:08.399-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-26T17:27:08.399-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:08.399-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:27:08.409-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:27:08.686-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:08.686-0300] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_complex
+[2023-08-26T17:27:08.690-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:08.690-0300] {manager.py:501} INFO - Created Permission View: can read on DAG:example_complex
+[2023-08-26T17:27:08.692-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:08.692-0300] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_complex
+[2023-08-26T17:27:08.696-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:08.696-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:27:08.700-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:08.700-0300] {dag.py:2929} INFO - Creating ORM DAG for example_complex
+[2023-08-26T17:27:08.700-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:08.700-0300] {dag.py:3677} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-26T17:27:08.707-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.309 seconds
+[2023-08-26T17:28:40.728-0300] {processor.py:157} INFO - Started process (PID=24395) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:28:40.729-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-26T17:28:40.729-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:28:40.729-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:28:40.739-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:28:40.813-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:28:40.813-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:28:40.817-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:28:40.817-0300] {dag.py:3677} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-26T17:28:40.824-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2023-08-26T17:30:11.005-0300] {processor.py:157} INFO - Started process (PID=24600) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:30:11.006-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-26T17:30:11.006-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:30:11.006-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:30:11.016-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:30:11.097-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:30:11.097-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:30:11.100-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:30:11.100-0300] {dag.py:3677} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-26T17:30:11.107-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2023-08-26T17:32:04.297-0300] {processor.py:157} INFO - Started process (PID=25113) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:32:04.298-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-26T17:32:04.298-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:32:04.298-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:32:04.309-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:32:04.385-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:32:04.385-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:32:04.389-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:32:04.389-0300] {dag.py:3677} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-26T17:32:04.396-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2023-08-26T17:46:53.211-0300] {processor.py:157} INFO - Started process (PID=26591) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:46:53.212-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-26T17:46:53.212-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:46:53.212-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:46:53.222-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-08-26T17:46:53.296-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:46:53.296-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:46:53.300-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:46:53.300-0300] {dag.py:3677} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-26T17:46:53.307-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds

@@ -1,0 +1,53 @@
+[2023-08-26T17:26:38.488-0300] {processor.py:157} INFO - Started process (PID=24119) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:26:38.488-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-08-26T17:26:38.488-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:38.488-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:26:38.500-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:26:38.777-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:38.777-0300] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_sensors
+[2023-08-26T17:26:38.780-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:38.780-0300] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_sensors
+[2023-08-26T17:26:38.782-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:38.782-0300] {manager.py:501} INFO - Created Permission View: can read on DAG:example_sensors
+[2023-08-26T17:26:38.786-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:38.786-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:26:38.789-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:38.789-0300] {dag.py:2929} INFO - Creating ORM DAG for example_sensors
+[2023-08-26T17:26:38.789-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:26:38.789-0300] {dag.py:3677} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-08-26T17:26:38.796-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.308 seconds
+[2023-08-26T17:27:57.645-0300] {processor.py:157} INFO - Started process (PID=24299) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:27:57.646-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-08-26T17:27:57.646-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:57.646-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:27:57.658-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:27:57.733-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:57.733-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:27:57.737-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:27:57.737-0300] {dag.py:3677} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-08-26T17:27:57.744-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2023-08-26T17:29:28.103-0300] {processor.py:157} INFO - Started process (PID=24504) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:29:28.104-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-08-26T17:29:28.104-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:28.104-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:29:28.117-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:29:28.190-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:28.190-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:29:28.194-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:29:28.194-0300] {dag.py:3677} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-08-26T17:29:28.201-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2023-08-26T17:31:01.537-0300] {processor.py:157} INFO - Started process (PID=24749) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:31:01.538-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-08-26T17:31:01.538-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:31:01.538-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:31:01.551-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:31:01.629-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:31:01.629-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:31:01.634-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:31:01.634-0300] {dag.py:3677} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-08-26T17:31:01.641-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2023-08-26T17:34:28.474-0300] {processor.py:157} INFO - Started process (PID=25367) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:34:28.475-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-08-26T17:34:28.475-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:34:28.475-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:34:28.486-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:34:28.563-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:34:28.563-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:34:28.568-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:34:28.568-0300] {dag.py:3677} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-08-26T17:34:28.575-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2023-08-26T17:44:13.065-0300] {processor.py:157} INFO - Started process (PID=26333) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:44:13.066-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-08-26T17:44:13.066-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:44:13.066-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:44:13.077-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:44:13.151-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:44:13.151-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:44:13.155-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:44:13.155-0300] {dag.py:3677} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-08-26T17:44:13.163-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2023-08-26T17:54:27.083-0300] {processor.py:157} INFO - Started process (PID=27876) to work on /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:54:27.083-0300] {processor.py:829} INFO - Processing file /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-08-26T17:54:27.084-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:54:27.083-0300] {dagbag.py:539} INFO - Filling up the DagBag from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:54:27.094-0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-08-26T17:54:27.168-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:54:27.168-0300] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-26T17:54:27.172-0300] {logging_mixin.py:151} INFO - [2023-08-26T17:54:27.172-0300] {dag.py:3677} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-08-26T17:54:27.179-0300] {processor.py:179} INFO - Processing /Users/luishmq/.pyenv/versions/3.8.13/envs/air_flow/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
